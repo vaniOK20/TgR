@@ -1,3 +1,4 @@
 requests
-pip install -U g4f[all]
+-U g4f[all]
 telebot
+base64
